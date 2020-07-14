@@ -1,4 +1,5 @@
 from die import Die
+import numba
 
 die = Die()
 

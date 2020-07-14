@@ -1,4 +1,5 @@
 from random import choice
+import numba
 
 class RandomWalk():
     # генерация случайных событий

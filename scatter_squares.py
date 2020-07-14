@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+import numba
+
 
 plt.scatter(2, 4, s=200)
 
